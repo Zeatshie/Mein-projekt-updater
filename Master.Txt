@@ -2,8 +2,9 @@
 /data/Map001.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Map001.json
 <End of Version>
 
-<Version: 1.04> 
+<Version: 1.05> 
 /data/Map001.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Map001.json
+/data/test.zip https://wordpress.org/latest.zip
 <End of Version>
 
 
