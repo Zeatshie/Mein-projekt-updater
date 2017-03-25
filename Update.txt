@@ -6,3 +6,7 @@
 /data/Map001.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Map001.json
 <End of Version>
 
+<Version: 1.03>
+/data/Map001.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Map001.json
+<End of Version>
+
