@@ -7,3 +7,7 @@
 /data/Map003.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Map002.json
 /img/characters/damage2.png http://imgur.com/download/IzOBWGm
 <End of Version>
+
+<Version: 1.03>
+/data/Map002.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Map002.json
+<End of Version>
