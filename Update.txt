@@ -5,4 +5,5 @@
 <Version: 1.02>
 /data/Map001.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Map001.json
 /data/Map003.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Map002.json
+/img/characters/damage2.png http://imgur.com/download/IzOBWGm
 <End of Version>
