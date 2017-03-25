@@ -5,5 +5,4 @@
 <Version: 1.02>
 /data/Map001.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Map001.json
 /data/Map003.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Map003.json
-/data/system.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/System.json
 <End of Version>
