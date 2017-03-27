@@ -3,7 +3,7 @@
 <End of Version>
 
 <Version: 1.02>
-/img/character/!Zeatshie.png http://www.bilder-upload.eu/show.php?file=ee7fa1-1490635527.png
+/img/character/!Zeatshie.png http://www.bilder-upload.eu/thumb/ee7fa1-1490635527.png
 /data/Actors.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Actors.json
 /data/Classes.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Classes.json
 <End of Version>
