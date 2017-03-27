@@ -1,10 +1,2 @@
-<Version: 1.01>
-/data/Map001.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Map001.json
-<End of Version>
 
-<Version: 1.02>
-/img/characters/Zeatshie.png https://img1.picload.org/image/rlwlocdr/zeatshie.png
-/data/Actors.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Actors.json
-/data/Classes.json https://raw.githubusercontent.com/Zeatshie/Mein-projekt-updater/master/Classes.json
-<End of Version>
 
